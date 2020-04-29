@@ -3,6 +3,8 @@ using namespace std
 int mian()
 {
 
+
+  cout << "the first time resume file ";
   cout << "hello world" << endl;
   systeam("pause");
 }
